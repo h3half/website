@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+    color: #5A5A5A;
+    font-weight: bold;
+}
+
+.container {
+    width: 95%;
+}
+
+.item {
+    display: inline-block;
+    padding-bottom: 15px;
+}
