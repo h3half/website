@@ -1,0 +1,16 @@
+.input {
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+}
+
+input {
+	font-size: 44pt;
+}
+
+.answer {
+	margin: auto;
+	text-align: center;
+	padding: 70px;
+	font-size: 36pt;
+}
